@@ -18,3 +18,6 @@ copy the code into your js console or save it as a bookmarklet
 #### sauce?
 find original code not put into closure compiler in **sauce** folder
 gifs from cultofthepartyparrot.com
+
+#### other thing
+code uses .includes so might not work on browsers using es5 or lower
