@@ -1,0 +1,1 @@
+javascript:void function(){var b=document.getElementsByTagName("img");Array.from(b).forEach(function(a){a.src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif";a.alt="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif";console.log("image \u25d8\u00ed\u2553\u2590\u203c\u221fb\u00de\u263ced.")})}();
