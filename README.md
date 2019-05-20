@@ -1,7 +1,9 @@
 # parrotify
-replaces img elements with parrots
+replaces img/div/span src/bg img with parrots
 
 oman i am not godo with markdopwn
+
+# muy importante yes gifs may induce seizures epilepsy careful
 
 #### what does this do?
 bookmarklet that replaces img src/span & div bg img with random parrots
