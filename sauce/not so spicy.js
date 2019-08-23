@@ -185,7 +185,7 @@ void(function(){
   "parrots/brazilianfanparrot.gif",
   "guests/witnessprotectionparrot.gif",
   "guests/dogeparrot.gif"
-]
+];
    let lien;
    Array.from(owo).forEach( (e)=>{
        lien = uwu[Math.random(0,uwu.length-1)];
