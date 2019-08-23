@@ -23,3 +23,10 @@ gifs from cultofthepartyparrot.com
 
 #### other thing
 code uses .includes so might not work on browsers using es5 or lower
+
+#### i'm in the middle of fixing these links:
+- invisibleparrot
+- parrotdad
+- parrotcop
+- parrotbeer
+- hd/prideparrot
