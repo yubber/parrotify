@@ -190,7 +190,7 @@ void(function(){
 ];
    let lien;
    Array.from(owo).forEach( (e)=>{
-       lien = uwu[Math.floor(Math.random(0,uwu.length-1)*999)%uwu.length];
+       lien = uwu[Math.floor(Math.random()*999)%uwu.length];
        if (lien.includes(".gif")){
          lien = "https://cultofthepartyparrot.com/" + lien
        }
@@ -198,7 +198,7 @@ void(function(){
        console.log("image ◘í╓▐‼∟bÞ☼ed.");
    });
    Array.from(hue).forEach( (e)=>{
-     lien = uwu[Math.floor(Math.random(0,uwu.length-1)*999)%uwu.length];
+     lien = uwu[Math.floor(Math.random()*999)%uwu.length];
      if (lien.includes(".gif")){
          lien = "https://cultofthepartyparrot.com/" + lien
       }
@@ -206,7 +206,7 @@ void(function(){
      console.log("a ah ß®∂ç†ƒ√©¥∫˙");
    })
    Array.from(ohno).forEach( (e)=>{
-     lien = uwu[Math.floor(Math.random(0,uwu.length-1)*999)%uwu.length];
+     lien = uwu[Math.floor(Math.random()*999)%uwu.length];
      if (lien.includes(".gif")){
          lien = "https://cultofthepartyparrot.com/" + lien
       }
