@@ -188,7 +188,7 @@ void(function(){
 ];
    let lien;
    Array.from(owo).forEach( (e)=>{
-       lien = uwu[Math.random(0,uwu.length-1)];
+       lien = uwu[Math.floor(Math.random()*999)%uwu.length];
        if (lien.includes(".gif")){
          lien = "https://cultofthepartyparrot.com/" + lien
        }
