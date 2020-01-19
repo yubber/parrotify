@@ -8,7 +8,6 @@ let neue = thing
 
 function flitter(a,b){
   let c = Array.from(new Set([...a,...b]));
-  c = c.filter( (e)=>e.includes("/assets/")===false)
-  c = c.filter( (e)=>e.includes("flags")===false)
+  c = c.filter( (e)=>e.includes("/assets/")||e.includes("flags")||e.includes("/still/")===false)
   return Array.from(c)
 }
