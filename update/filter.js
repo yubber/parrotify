@@ -6,7 +6,7 @@ thing = stuff.filter( (e)=>thing.indexOf(e)==-1 )
 
 let neue = thing
 
-function flitter(a,b){
+function flitter(a,b){ // call flitter(stuff, thing)
   let c = Array.from(new Set([...a,...b]));
   c = c.filter( (e)=>e.includes("/assets/")||e.includes("flags")||e.includes("/still/")===false)
   return Array.from(c)
