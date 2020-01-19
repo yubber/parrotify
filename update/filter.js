@@ -10,6 +10,6 @@ let neue = thing
 
 function flitter(a,b){ // call copy(flitter(stuff, thing))
   let c = Array.from(new Set([...a,...b]));
-  c = c.filter( (e)=>e.includes("/assets/")||e.includes("flags")||e.includes("/still/")===false)
+  c = c.filter( (e)=>e.includes("/assets/")===false||e.includes("flags")===false||e.includes("/still/")===false)
   return Array.from(c)
 }
