@@ -1,5 +1,5 @@
 # parrotify
-replaces img/div/span src/bg img with parrots
+replaces img/div/span src/bg img with parrots (bonus file: makes site font comic sans
 
 oman i am not godo with markdopwn
 
